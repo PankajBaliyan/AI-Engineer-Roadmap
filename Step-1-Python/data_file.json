@@ -1,1 +1,4 @@
-{"Pankaj": {"name": "Pankaj", "website": "JournalDev", "from": "India"}, "Anuj": {"name": "Anuj", "website": "JournalDev", "from": "India"}}
+{
+  "Pankaj": { "name": "Pankaj", "website": "JournalDev", "from": "India" },
+  "Anuj": { "name": "Anuj", "website": "JournalDev", "from": "India" }
+}

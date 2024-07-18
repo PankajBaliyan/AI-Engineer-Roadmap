@@ -1,8 +1,6 @@
-modules = ["nodejs-20"]
-run = "npm start"
+modules = ["python-3.12"]
 
-[nix]
-channel = "stable-24_05"
+run = "python3 Main.py"
 
 [deployment]
-run = ["sh", "-c", "npm start"]
+run = ["sh", "-c", "python3 Main.py"]
