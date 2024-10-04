@@ -15,7 +15,12 @@
 # from Replit.Problems.Problem7 import Main
 # from Replit.Problems.Problem8 import Main
 # from Replit.Problems.Problem9 import Main
-from Replit.Problems.Problem11 import Main
+# from Replit.Problems.Problem11 import Main
+# from Replit.Problems.Problem12 import Main
+# from Replit.Problems.Problem13 import Main
+# from Replit.Problems.Problem14 import Main
+# from Replit.Problems.Problem15 import Main
+from Replit.Problems.Problem16 import Main
 
 
 Main()
